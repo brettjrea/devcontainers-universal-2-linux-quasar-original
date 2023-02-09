@@ -20,4 +20,4 @@ Quasar:
 
 `quasar build`
 
-`$ quasar serve`
+`quasar serve`
