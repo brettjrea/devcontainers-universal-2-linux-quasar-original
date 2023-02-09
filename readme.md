@@ -10,10 +10,10 @@ Quasar:
 
 `quasar info`
 
-`npm init quasar`
+`npm init quasar` Skip, Project in this repo is already scaffolded.
 
 `cd quasar-project`
 
-`npm install`
+`npm install` Skip, Added this to "postCreateCommand" in devcontainer.json.
 
-`quasar dev -p 4000`
+`quasar dev -p 4000` Added 4000 to "portsAttributes" in devcontainer.json.
