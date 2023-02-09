@@ -1,7 +1,9 @@
 Check for universal Image.
+
 `devcontainer-info`
 
 Check installed extensions.
+
 `du -h -s ~/.vscode-remote/extensions`
 
 Quasar:
