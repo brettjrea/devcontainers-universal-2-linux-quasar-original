@@ -20,4 +20,4 @@ Quasar:
 
 `quasar build`
 
-`quasar serve`
+` quasar serve . -H 127.0.0.1 -p 9000`
