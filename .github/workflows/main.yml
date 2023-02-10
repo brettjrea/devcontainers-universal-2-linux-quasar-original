@@ -1,5 +1,6 @@
 name: Copy dist folder to gh-pages branch
-
+env:
+  PUBLISH_DIR: quasar-project/dist/spa/
 on:
   push:
     branches:
@@ -27,6 +28,13 @@ jobs:
 
     - name: Copy dist folder
       run: cp -r quasar-project/dist/spa/* .
+
+    - name: Rewrite base href
+      uses: SteveSandersonMS/ghaction-rewrite-base-href@v1
+      with:
+        html_path: ${{ env.PUBLISH_DIR }}/index.html
+        base_href: 
+devcontainers-universal-2-linux-quasar
 
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
