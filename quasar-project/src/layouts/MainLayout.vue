@@ -81,12 +81,6 @@ const linksList = [
     link: 'https://twitter.quasar.dev'
   },
   {
-    title: 'Facebook',
-    caption: '@QuasarFramework',
-    icon: 'public',
-    link: 'https://facebook.quasar.dev'
-  },
-  {
     title: 'Quasar Awesome',
     caption: 'Community Quasar projects',
     icon: 'favorite',
