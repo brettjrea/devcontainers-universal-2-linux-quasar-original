@@ -32,3 +32,13 @@ Build.yml
 
 To fix the href paths for production you need to go into quasar.config.js and uncomment out `//publicPath:` and add your path.
 But I wanted to try to keep the files in this repo untouched so added a script in build.yml to inject it in at build time.
+
+Add SSR
+---
+`quasar dev -m ssr` adds to project the src-ssr folder and serves ssr locally for preview with vite and express in one command.
+
+`quasar build -m ssr` builds to the dist/ssr folder for deployment.
+
+`cd dist/ssr`  Important to remember to move to SSR folder before serving otherwise it will serve blank page.
+
+`quasar serve . -H 127.0.0.1 -p 9000` need the single period to serve current directory, needed localhost and port flags to get it to serve anything at all.
