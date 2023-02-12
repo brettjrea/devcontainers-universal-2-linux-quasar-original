@@ -51,3 +51,16 @@ jobs:
       with:
         folder: ./quasar-project/dist/spa
         branch: gh-pages
+
+    - name: Override publicPath in quasar.config.js
+      run: |
+        sed -i 's|// publicPath:.*|publicPath: '\''https://brettjrea.github.io/devcontainers-universal-2-linux-quasar/'\','|' quasar-project/quasar.config.js
+        
+    - name: Build
+      run: cd ./quasar-project && npm run build
+
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@v4.4.1
+      with:
+        folder: ./quasar-project/dist/ssr/client
+        branch: vercel-ssr
