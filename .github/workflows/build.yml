@@ -57,7 +57,7 @@ jobs:
         sed -i 's|// publicPath:.*|publicPath: '\''https://quasar-vercel.vercel.app/'\','|' quasar-project/quasar.config.js
         
     - name: Build
-      run: cd ./quasar-project && quasar build -m ssr
+      run: cd ./quasar-project && npm run build-ssr
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4.4.1
