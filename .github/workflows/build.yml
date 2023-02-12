@@ -54,7 +54,7 @@ jobs:
 
     - name: Override publicPath in quasar.config.js
       run: |
-        sed -i 's|// publicPath:.*|publicPath: '\''quasar-vercel-eh9gtxnjl-brettjrea.vercel.app'\','|' quasar-project/quasar.config.js
+        sed -i 's|// publicPath:.*|publicPath: '\''https://quasar-vercel.vercel.app/'\','|' quasar-project/quasar.config.js
         
     - name: Build
       run: cd ./quasar-project && npm run build
@@ -62,5 +62,5 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4.4.1
       with:
-        folder: ./quasar-project/dist/ssr/
+        folder: ./quasar-project/dist/ssr/client
         branch: vercel-ssr
