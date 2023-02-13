@@ -60,7 +60,7 @@ jobs:
       run: cd ./quasar-project && npm run build-ssr
 
    - name: Deploy to Heroku
-    uses: JamesIves/github-pages-deploy-action@v4.4.1
-    with:
+     uses: JamesIves/github-pages-deploy-action@v4.4.1
+     with:
       folder: ./quasar-project/dist/ssr/*
       branch: heroku-ssr
