@@ -75,7 +75,7 @@ jobs:
     - name: Deploy to Heroku
       uses: JamesIves/github-pages-deploy-action@v4.4.1
       with:
-        folder: ./quasar-project/
+        folder: ./quasar-project/dist/ssr
         branch: heroku-ssr
 
     - name: Override publicPath in quasar.config.js
