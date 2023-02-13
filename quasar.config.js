@@ -143,8 +143,10 @@ module.exports = configure(function (/* ctx */) {
       // manualStoreHydration: true,
       // manualPostHydrationTrigger: true,
 
-      //prodPort: 3000, // The default port that the production server should use
-                      // (gets superseded if process.env.PORT is specified at runtime)
+      prodPort: process.env.PORT || 3000, // Use the environment variable if available, otherwise use port 3000
+
+   // The default port that the production server should use
+  // (gets superseded if process.env.PORT is specified at runtime)
 
       middlewares: [
         'render' // keep this as last one
