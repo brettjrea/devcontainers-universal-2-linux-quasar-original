@@ -77,3 +77,16 @@ jobs:
       with:
         folder: ./quasar-project/
         branch: heroku-ssr
+
+    - name: Override publicPath in quasar.config.js
+      run: |
+        sed -i 's|// publicPath:.*|publicPath: '\''https://quasar-ssr.herokuapp.com/'\','|' quasar-project/quasar.config.js
+        
+    - name: Build
+      run: cd ./quasar-project && npm run build-ssr
+
+    - name: Deploy to Digital Ocean
+      uses: JamesIves/github-pages-deploy-action@v4.4.1
+      with:
+        folder: ./quasar-project/
+        branch: droplet-ssr
