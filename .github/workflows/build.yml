@@ -65,7 +65,7 @@ jobs:
         folder: ./quasar-project/dist/ssr/
         branch: vercel-ssr
 
-   - name: Override publicPath in quasar.config.js
+    - name: Override publicPath in quasar.config.js
       run: |
         sed -i 's|// publicPath:.*|publicPath: '\''https://quasar-ssr.herokuapp.com/'\','|' quasar-project/quasar.config.js
         
