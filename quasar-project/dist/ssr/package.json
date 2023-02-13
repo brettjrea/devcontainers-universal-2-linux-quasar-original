@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "start": "node index.js",
-    "build-ssr": "quasar build -m ssr"
+    "build": "quasar build -m ssr"
   },
   "dependencies": {
     "axios": "0.21.4",
