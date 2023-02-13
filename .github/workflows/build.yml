@@ -52,15 +52,15 @@ jobs:
         folder: ./quasar-project/dist/spa
         branch: gh-pages
 
-   - name: Override publicPath in quasar.config.js
+    - name: Override publicPath in quasar.config.js
       run: |
         sed -i 's|// publicPath:.*|publicPath: '\''https://quasar-ssr.herokuapp.com/'\','|' quasar-project/quasar.config.js
         
-   - name: Build
+    - name: Build
       run: cd ./quasar-project && npm run build-ssr
 
-   - name: Deploy to Heroku
-     uses: JamesIves/github-pages-deploy-action@v4.4.1
-     with:
-      folder: ./quasar-project/dist/ssr/*
-      branch: heroku-ssr
+    - name: Deploy to Heroku
+      uses: JamesIves/github-pages-deploy-action@v4.4.1
+      with:
+        folder: ./quasar-project/dist/ssr/*
+        branch: heroku-ssr
