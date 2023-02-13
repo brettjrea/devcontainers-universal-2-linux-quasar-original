@@ -5,7 +5,8 @@
   "author": "brettjrea <6890798+brettjrea@users.noreply.github.com>",
   "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build-ssr": "quasar build -m ssr"
   },
   "dependencies": {
     "axios": "0.21.4",
