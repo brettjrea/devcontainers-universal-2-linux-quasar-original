@@ -1,674 +1,674 @@
 {
   "vite/preload-helper": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/@quasar/extras/roboto-font/roboto-font.css": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/@quasar/extras/material-icons/material-icons.css": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/dist/quasar.sass": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "src/css/app.scss": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/private/inject-obj-prop.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/plugins/Platform.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/private/define-reactive-plugin.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/event.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/debounce.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/plugins/Screen.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/plugins/Dark.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/history.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/lang/en-US.mjs": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/lang.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/set-css-var.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/private/key-composition.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/body.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/icon-set/material-icons.mjs": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/icon-set.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/private/symbols.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/private/global-config.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/utils/is.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/install-quasar.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/src/vue-plugin.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "plugin-vue:export-helper": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "src/App.vue": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/quasar/wrappers/index.mjs": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/vue-demi/lib/index.mjs": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/pinia/dist/pinia.mjs": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "src/stores/index.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/vue-router/dist/vue-router.mjs": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "src/router/routes.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "src/router/index.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   ".quasar/app.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   ".quasar/quasar-user-options.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   ".quasar/client-entry.js": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "index.html": [
-    "/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
-    "/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
-    "/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
-    "/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
-    "/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
-    "/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
-    "/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    "https://quasar-ssr.herokuapp.com/assets/KFOkCnqEu92Fr1MmgVxIIzQ.34e9582c.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmSU5fBBc-.bf14c7d7.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOmCnqEu92Fr1Mu4mxM.f2abf7fb.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmEU9fBBc-.9ce7f3ac.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmWUlfBBc-.e0fd57c0.woff",
+    "https://quasar-ssr.herokuapp.com/assets/KFOlCnqEu92Fr1MmYUtfBBc-.f6537e32.woff",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "https://quasar-ssr.herokuapp.com/assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
   ],
   "node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
-    "/assets/i18n.85ba6aa7.js"
+    "https://quasar-ssr.herokuapp.com/assets/i18n.de51faab.js"
   ],
   "node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
-    "/assets/i18n.85ba6aa7.js"
+    "https://quasar-ssr.herokuapp.com/assets/i18n.de51faab.js"
   ],
   "node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
-    "/assets/i18n.85ba6aa7.js"
+    "https://quasar-ssr.herokuapp.com/assets/i18n.de51faab.js"
   ],
   "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
-    "/assets/i18n.85ba6aa7.js"
+    "https://quasar-ssr.herokuapp.com/assets/i18n.de51faab.js"
   ],
   "node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
-    "/assets/i18n.85ba6aa7.js"
+    "https://quasar-ssr.herokuapp.com/assets/i18n.de51faab.js"
   ],
   "src/i18n/en-US/index.js": [
-    "/assets/i18n.85ba6aa7.js"
+    "https://quasar-ssr.herokuapp.com/assets/i18n.de51faab.js"
   ],
   "src/i18n/index.js": [
-    "/assets/i18n.85ba6aa7.js"
+    "https://quasar-ssr.herokuapp.com/assets/i18n.de51faab.js"
   ],
   "src/boot/i18n.js": [
-    "/assets/i18n.85ba6aa7.js"
+    "https://quasar-ssr.herokuapp.com/assets/i18n.de51faab.js"
   ],
   "\u0000/home/runner/work/devcontainers-universal-2-linux-quasar/devcontainers-universal-2-linux-quasar/quasar-project/node_modules/axios/lib/axios.js?commonjs-module": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/bind.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/utils.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/buildURL.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/InterceptorManager.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/normalizeHeaderName.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/enhanceError.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/createError.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/settle.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/cookies.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/isAbsoluteURL.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/combineURLs.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/buildFullPath.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/parseHeaders.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/isURLSameOrigin.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/adapters/xhr.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/defaults.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/transformData.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/cancel/isCancel.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/dispatchRequest.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/mergeConfig.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/package.json": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/validator.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/core/Axios.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/cancel/Cancel.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/cancel/CancelToken.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/spread.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/helpers/isAxiosError.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/lib/axios.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/axios/index.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "src/boot/axios.js": [
-    "/assets/axios.38dbf432.js"
+    "https://quasar-ssr.herokuapp.com/assets/axios.86b73042.js"
   ],
   "node_modules/quasar/src/components/toolbar/QToolbarTitle.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/toolbar/QToolbar.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/composables/private/use-can-render.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/resize-observer/QResizeObserver.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/header/QHeader.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/item/QItemLabel.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/composables/private/use-dark.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/item/QList.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/composables/private/use-history.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/composables/private/use-model-toggle.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/utils/scroll.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/utils/prevent-scroll.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/composables/private/use-prevent-scroll.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/composables/private/use-timeout.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/utils/private/touch.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/utils/private/selection.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/directives/TouchPan.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/utils/format.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/drawer/QDrawer.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/page/QPageContainer.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/scroll-observer/QScrollObserver.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/layout/QLayout.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/item/QItemSection.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/components/item/QItem.js": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "src/components/EssentialLink.vue": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "src/layouts/MainLayout.vue": [
-    "/assets/MainLayout.96c256de.js"
+    "https://quasar-ssr.herokuapp.com/assets/MainLayout.0164589e.js"
   ],
   "node_modules/quasar/src/composables/private/use-size.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/components/icon/QIcon.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/components/spinner/use-spinner.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/components/spinner/QSpinner.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/utils/dom.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/utils/throttle.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/directives/Ripple.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/composables/private/use-align.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/utils/private/vm.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/composables/private/use-router-link.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/components/btn/use-btn.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/components/btn/QBtn.js": [
-    "/assets/QBtn.166d8694.js"
+    "https://quasar-ssr.herokuapp.com/assets/QBtn.4ff51a4a.js"
   ],
   "node_modules/quasar/src/utils/private/create.js": [
-    "/assets/render.0cfc1fd1.js"
+    "https://quasar-ssr.herokuapp.com/assets/render.b01b9dd9.js"
   ],
   "node_modules/quasar/src/utils/private/render.js": [
-    "/assets/render.0cfc1fd1.js"
+    "https://quasar-ssr.herokuapp.com/assets/render.b01b9dd9.js"
   ],
   "node_modules/quasar/src/components/page/QPage.js": [
-    "/assets/IndexPage.39cf44b4.js",
-    "/assets/quasar-logo-vertical.55e9c854.svg"
+    "https://quasar-ssr.herokuapp.com/assets/IndexPage.8f42d86b.js",
+    "https://quasar-ssr.herokuapp.com/assets/quasar-logo-vertical.55e9c854.svg"
   ],
   "src/assets/quasar-logo-vertical.svg": [
-    "/assets/IndexPage.39cf44b4.js",
-    "/assets/quasar-logo-vertical.55e9c854.svg"
+    "https://quasar-ssr.herokuapp.com/assets/IndexPage.8f42d86b.js",
+    "https://quasar-ssr.herokuapp.com/assets/quasar-logo-vertical.55e9c854.svg"
   ],
   "src/pages/IndexPage.vue": [
-    "/assets/IndexPage.39cf44b4.js",
-    "/assets/quasar-logo-vertical.55e9c854.svg"
+    "https://quasar-ssr.herokuapp.com/assets/IndexPage.8f42d86b.js",
+    "https://quasar-ssr.herokuapp.com/assets/quasar-logo-vertical.55e9c854.svg"
   ],
   "src/pages/ErrorNotFound.vue": [
-    "/assets/ErrorNotFound.71a8d7f5.js"
+    "https://quasar-ssr.herokuapp.com/assets/ErrorNotFound.1658f9dd.js"
   ]
 }
