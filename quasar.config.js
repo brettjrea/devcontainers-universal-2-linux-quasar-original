@@ -67,7 +67,7 @@ module.exports = configure(function (/* ctx */) {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      publicPath: 'https://brettjrea.github.io/devcontainers-universal-2-linux-quasar/',
+      publicPath: 'https://quasar-ssr.herokuapp.com/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
