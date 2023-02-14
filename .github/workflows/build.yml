@@ -52,9 +52,11 @@ jobs:
         folder: ./quasar-project/dist/spa
         branch: gh-pages
 
-    - name: Override publicPath in quasar.config.js
+    - name: Update publicPath in quasar.config.js
       run: |
-        sed -i 's|// publicPath:.*|publicPath: 'https://brettjrea.github.io/devcontainers-universal-2-linux-quasar/''https://quasar-ssr.herokuapp.com/'\','|' quasar-project/quasar.config.js
+        sed -i "s/publicPath:.*/publicPath: 'https:\/\/quasar-ssr.herokuapp.com\//g" quasar-project/quasar.config.js
+
+
         
     - name: Build
       run: cd ./quasar-project && npm run build-ssr
