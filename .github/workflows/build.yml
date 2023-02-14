@@ -54,7 +54,7 @@ jobs:
 
     - name: Update publicPath in quasar.config.js
       run: |
-        sed -i "s|publicPath:.*|publicPath: '/',|g" quasar-project/quasar.config.js
+        sed -i "s|publicPath:.*|publicPath: 'https://quasar-ssr.herokuapp.com/',|g" quasar-project/quasar.config.js
         
     - name: Build
       run: cd ./quasar-project && npm run build-ssr
