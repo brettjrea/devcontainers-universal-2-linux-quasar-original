@@ -5,12 +5,12 @@
   "productName": "Quasar App",
   "author": "brettjrea <6890798+brettjrea@users.noreply.github.com>",
   "private": true,
-    "scripts": {
+  "scripts": {
     "build": "quasar build"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "quasar": "^2.6.0"
+    "quasar": "^2.11.6"
   },
   "devDependencies": {
     "@quasar/app-vite": "^1.0.0"

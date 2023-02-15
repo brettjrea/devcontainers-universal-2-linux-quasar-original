@@ -44,3 +44,14 @@ Add SSR
 `cd dist/ssr`  Important to remember to move to SSR folder before serving otherwise it will serve blank page.
 
 `quasar serve . -H 127.0.0.1 -p 9000` need the single period to serve current directory, needed localhost and port flags to get it to serve anything at all.
+
+Windows
+---
+
+winget install OpenJS.NodeJS.LTS
+
+npm install --force
+
+npm ci --force
+
+npm i -g @quasar/cli
