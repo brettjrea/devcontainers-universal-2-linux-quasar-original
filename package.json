@@ -12,7 +12,7 @@
     "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
     "test": "echo \"No test specified\" && exit 0",
     "start": "node ./dist/ssr/index.js",
-    "heroku-postbuild": "quasar build -m ssr && npm ci ./dist/ssr/"
+    "heroku-postbuild": "quasar build -m ssr && npm ci ./dist/ssr/ && npm run start"
   },
   "dependencies": {
     "@quasar/extras": "^1.15.11",
