@@ -57,7 +57,7 @@ jobs:
         sed -i "s|publicPath:.*|publicPath: 'https://quasar-ssr.herokuapp.com/',|g" quasar-project/quasar.config.js
 
     - name: Build
-      run: cd ./quasar-project && npm run build-ssr
+      run: cd ./quasar-project && npm run build-ssr && npm install
 
     - name: Create Procfile for Heroku
       run: |
