@@ -61,7 +61,8 @@ jobs:
 
     - name: Create Procfile
       run: |
-        echo "web: npm start" > dist/ssr/Procfile  
+        touch dist/ssr/Procfile && echo "web: node dist/ssr/index.js" >> dist/ssr/Procfile
+      
 
     - name: Deploy to Heroku
       uses: JamesIves/github-pages-deploy-action@v4.4.1
