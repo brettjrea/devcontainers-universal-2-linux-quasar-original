@@ -63,7 +63,7 @@ jobs:
       run: |
         mkdir -p dist/ssr
         touch dist/ssr/Procfile
-        echo "web: node index.js" > dist/ssr/Procfile
+        echo "web: npm run start" > dist/ssr/Procfile
       working-directory: ./quasar-project
 
 
