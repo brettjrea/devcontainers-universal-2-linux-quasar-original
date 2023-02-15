@@ -59,10 +59,13 @@ jobs:
     - name: Build
       run: cd ./quasar-project && npm run build-ssr
 
-    - name: Create Procfile
+    - name: Create Procfile for Heroku
       run: |
-        touch ./dist/ssr/Procfile && echo "web: node dist/ssr/index.js" >> dist/ssr/Procfile
-      
+        mkdir -p dist/ssr
+        touch dist/ssr/Procfile
+        echo "web: node index.js" > dist/ssr/Procfile
+      working-directory: ./quasar-project
+
 
     - name: Deploy to Heroku
       uses: JamesIves/github-pages-deploy-action@v4.4.1
