@@ -59,7 +59,7 @@ jobs:
     - name: Build
       run: cd ./quasar-project && npm run build-ssr
 
-    - name: Build
+    - name: Build NPM
       run: cd ./quasar-project/dist/ssr/ && npm install
 
     - name: Create Procfile for Heroku
