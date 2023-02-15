@@ -5,8 +5,17 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/universal:2-linux",
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/quasar-cli:2": {},
-		"ghcr.io/devcontainers/features/desktop-lite:1": {}
+		"ghcr.io/devcontainers/features/common-utils:2": {},
+		"ghcr.io/devcontainers-contrib/features/quasar-cli:2": {
+			"version": "latest"
+		},
+		"ghcr.io/devcontainers/features/desktop-lite:1": {
+			"version": "latest",
+			"noVncVersion": "1.2.0",
+			"password": "vscode",
+			"webPort": "6080",
+			"vncPort": "5901"
+		}
 	},
 	"portsAttributes": {
 		"4000": {
@@ -18,17 +27,11 @@
 	// "features": {},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	 //"forwardPorts": [4000],
+	 "forwardPorts": [6080, 5901],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "cd quasar-project && npm install",
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"king2021.vnc-extension"
-			]
-		}
-	}
+	"postCreateCommand": "cd quasar-project && npm install"
+	
 
 	// Configure tool-specific properties.
 	// "customizations": {},
